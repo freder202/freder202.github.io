@@ -67,7 +67,7 @@ As part of my semester, we designed in a team of 2, a 14 layers PCB with FGPA, D
 We were the only team to finish a PCB what would work with only 14.
 The link to the project [Github](https://github.com/Raesangur/UdeS_S7_APP1)
 
-! [image PCB] (./images/pcb_s7/top_bottom.jpg)
+![image PCB](./images/pcb_s7/top_bottom.jpg)
 
 ### Embedded Software Internship at Tesla, Fall 2023
 
