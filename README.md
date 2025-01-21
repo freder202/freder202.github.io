@@ -120,9 +120,11 @@ I also did :
 
 ![flex PCB](./images/krag/flex_pcb.jpg)
 
-### Batch of sensors to manufacture 
- As part of a part time contract, I had to manufacture around 230 of those sensors boards.
- Learned a lot about manufacturing, the challenges involved behind every design decisions and how to make things simple to make a large batch of.
+### Batch of sensors to manufacture
+
+As part of a part time contract, I had to manufacture around 230 of those sensors boards.
+Learned a lot about manufacturing, the challenges involved behind every design decisions and how to make things simple to make a large batch of.
+
 <table>
     <tr>
         <td><img src="./images/sensors/connectors.jpg"  alt="photos of connectors" /></td>
@@ -130,10 +132,10 @@ I also did :
     </tr>
 </table>
 
+### First PCB experiences 2021 and earlier
 
+Those are some pictures of old PCBs I made and some I found during the disassembly of electronic products
 
-### First PCB experiences 2021 and earlier 
-Those are some pictures of old PCBS I made and some I found the disassembly of electronic products
 <table>
     <tr>
         <td><img src="./images/first_pcbs/temp.jpg"  alt="temperature" /></td>
@@ -143,21 +145,20 @@ Those are some pictures of old PCBS I made and some I found the disassembly of e
     </tr>
 </table>
 
-
-
-
 ### Woodworking projects
+
 <table>
     <tr>
-        <td><img src="./images/wood/wood_1.jpg"  alt="jewellery box" /></td>
-        <td><img src="./images/wood/book (3).jpg"  alt="jewellery box" /></td>
-        <td><img src="./images/wood/bookshelf (2).jpg"  alt="jewellery box" /></td
+        <td><img src="./images/wood/wood_1.jpg" alt="jewellery box" /></td>
+        <td><img src="./images/wood/bookshelf (2).jpg" alt="bookshelf" /></td>
     </tr>
-</table>
-<table>
     <tr>
-        <td><img src="./images/wood/bookshelf_2.jpg"  alt="jewellery box" /></td>
-        <td><img src="./images/wood/cutting_1.jpg"  alt="jewellery box" /></td>
-        <td><img src="./images/wood/bowl.jpg"  alt="jewellery box" /></td
+        <td><img src="./images/wood/bookshelf_proc.jpg" alt="bookshelf" /></td>
+        <td><img src="./images/wood/cutting_1.jpg" alt="cutting board" /></td>
+    </tr>
+    <tr>
+        <td><img src="./images/wood/book (3).jpg" alt="bowl" /></td>
+        <td><img src="./images/wood/bowl.jpg" alt="turning" /></td>
     </tr>
 </table>
+
